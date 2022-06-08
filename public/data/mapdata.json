@@ -1,0 +1,31 @@
+
+    [{
+        "id": 0,
+        "address": "7641 Lee Hwy",
+        "name" : "City Cafe Diner",
+        "imageUrl": "http://localhost:3000/data/img/0.jpg"
+    },
+    {
+        "id": 1,
+        "address": "123 Main St",
+        "name" : "Drake's",
+        "imageUrl": "http://localhost:3000/data/img/1.jpg"
+    },
+    {
+        "id": 2,
+        "address": "2215 Hamilton Pl Blvd",
+        "name" : "J. Alexander's Restaurant",
+        "imageUrl": "http://localhost:3000/data/img/2.jpg"
+    },
+    {
+        "id": 3,
+        "address": "7510 Lee Hwy",
+        "name" : "Smoke in the City Grill",
+        "imageUrl": "http://localhost:3000/data/img/3.jpg"
+    },
+    {
+        "id": 4,
+        "address": "125 Main St",
+        "name" : "El Mason Mexican Restaurant",
+        "imageUrl": "http://localhost:3000/data/img/4.jpg"
+    }]
